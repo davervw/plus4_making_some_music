@@ -1,0 +1,18 @@
+Program is made up of multiple parts.  
+
+Part is originally form Commodore plus/4 User's Manual, revised by davervw to support more Commodore computers, see copyrights below
+Part is a revision of cbmdetect from https://github.com/davervw/cbmdetect (c) 2026 David R. Van Wagner MIT LICENSE
+
+I do not claim any copyright to the original code.  Classic Commodore manuals and software prior to 2000 are generally 
+considered abandonware as the company has gone bankrupt long ago.  Trademarks are owners of respective companies.
+
+Use at your own risk.
+
+===================================================================================
+
+Source: https://archive.org/details/plus-4-users-manual/mode/2up
+
+Commodore plus/4 User's Manual
+COMMODORE PLUS/4 USER MANUAL
+Copyright © 1984 by Commodore Electronics Limited
+All rights reserved
